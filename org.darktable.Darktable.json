@@ -89,6 +89,7 @@
                 }
             ]
         },
+        "shared-modules/intltool/intltool-0.51.json",
         {
             "name": "pugixml",
             "buildsystem": "cmake-ninja",
@@ -266,8 +267,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/darktable-org/darktable/releases/download/release-2.6.3/darktable-2.6.3.tar.xz",
-                    "sha256": "a518999c8458472edfc04577026ce5047d74553052af0f52d10ba8ce601b78f0"
+                    "url": "https://github.com/darktable-org/darktable/releases/download/release-3.0.0rc2/darktable-3.0.0.rc2.tar.xz",
+                    "sha256": "ccd3680603343a7134d40f73acc377a3dc644a680e859e9750da4ae7e25adbcc"
                 },
                 {
                     "type": "patch",
